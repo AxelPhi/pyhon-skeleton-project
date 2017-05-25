@@ -1,0 +1,3 @@
+# Use couch db as a sample for integration tests
+# using docker
+CouchDB
