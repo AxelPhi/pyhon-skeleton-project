@@ -1,3 +1,7 @@
 # Use couch db as a sample for integration tests
 # using docker
 CouchDB
+
+# Use flask as sample for a web app
+Flask
+Flask-RESTful
